@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "email": "Zar@mail.ru",
+      "password": "A12345678",
+      "repPassword": "A12345678",
+      "date": "02/12/2023",
+      "id": 1
+    },
+    {
+      "email": "C@mail.ru",
+      "password": "A12345678",
+      "repPassword": "A12345678",
+      "date": "3/12/2023",
+      "id": 2
+    },
+    {
+      "email": "Zar123@mail.ru",
+      "password": "A12345678",
+      "repPassword": "A12345678",
+      "date": "14/12/2023",
+      "id": 3
+    },
+    {
+      "email": "Zar1@mail.ru",
+      "password": "A12345678",
+      "repPassword": "A12345678",
+      "date": "14/12/2023",
+      "id": 4
+    },
+    {
+      "email": "1Zar@mail.ru",
+      "password": "A12345678",
+      "repPassword": "A12345678",
+      "date": "14/12/2023",
+      "id": 5
+    },
+    {
+      "email": "ZaAr@mail.ru",
+      "password": "A12345678",
+      "repPassword": "A12345678",
+      "date": "15/12/2023",
+      "id": 6
+    },
+    {
+      "email": "ZAar@mail.ru",
+      "password": "A12345678",
+      "repPassword": "A12345678",
+      "date": "15/12/2023",
+      "id": 7
+    }
+  ],
+  "notes": [
+    {
+      "userId": 1,
+      "title": "Ольга, 40 лет. 300м от ваcccc",
+      "body": "Живу одна....",
+      "date": "3/12/2023",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Hi!!!!",
+      "body": "Mu name is",
+      "date": "3/12/2023",
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "title": "fsfsd",
+      "body": "fsdfsdfds",
+      "date": "14/12/2023",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Столбик",
+      "body": "1\n2\n3",
+      "date": "15/12/2023",
+      "id": 4
+    }
+  ]
+}
